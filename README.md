@@ -1,1 +1,1 @@
-# docker-latex-devcontainer
+# latex-devcontainer

@@ -2,7 +2,7 @@ cff-version: 1.2.0
 title: Scape Foundation - Docker Images - Latex DevContainer
 version: 0.0.1
 date-released: 2023-07-01
-url: "https://github.com/block-foundation/latex-devcontainer"
+url: "https://github.com/scape-foundation/latex-devcontainer"
 message: >-
   If you use this software, please cite it using
   the metadata from this file.
